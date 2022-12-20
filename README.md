@@ -1,6 +1,11 @@
 __Simple Python Script to Spam Webhooks__
 
 
+__Requirements__
+-------------
+<a href="python.org">Python</a>
+
+-------------
 
 __Usage__
 -------------
