@@ -1,6 +1,4 @@
-
-
-		Simple Python Script to Spam Webhooks
+__Simple Python Script to Spam Webhooks__
 
 
 
