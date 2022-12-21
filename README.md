@@ -10,12 +10,17 @@ __Requirements__
 __Usage__
 -------------
 
+__Clone__
+```
+$ git clone https://github.com/CodeZ3ro/Discord-Webhook-Flooder.git
+```
+
 __Installing requirements__
 ```
 $ pip3 install -r requirements.txt
 ```
 
+__Run__
 ```
 $ py main.py
 ```
-
